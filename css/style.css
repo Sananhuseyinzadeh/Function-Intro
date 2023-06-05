@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#Groups{
+    margin-top: 30px;
+    margin-left: 30px;
+    padding: 15px;
+    border-radius: 7px;
+    background-color: #fff;
+    font-size: 15px;
+}
+
+#Button1{
+    padding: 14px 20px;
+    border-radius: 7px;
+    margin-left: 5px;
+    background-color: #fff;
+    color: #000;
+}
+
+h1{
+    font-size: 100px;
+    font-weight: bold;
+    text-align: center;
+    align-items: center;
+}
+
+body{
+    transition: 2s;
+}
+
+.button2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.button2 .planets{
+    background-color: #fff;
+}
+
+.button2 .planets i{
+    padding: 18px 22px;
+    font-size: 15px;
+    transition: 1s;
+}
+
+
+
